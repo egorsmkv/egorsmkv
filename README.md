@@ -9,3 +9,5 @@
 |A simple GUI app based on GTK3|https://github.com/egorsmkv/gtk-auth-app|Python|
 |Database Migrations based on Laravel|https://github.com/egorsmkv/db-migrations|PHP|
 |A demonstration on how to create own OTP authentication|https://github.com/egorsmkv/otp-qr-demo|PHP|
+|Implementation of multithreading in Qt|https://github.com/egorsmkv/qt-multithreading|C++|
+|Whois HTTP API|https://github.com/egorsmkv/http-whois|Ruby|
