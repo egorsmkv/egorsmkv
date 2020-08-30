@@ -12,4 +12,4 @@
 |Implementation of multithreading in Qt|https://github.com/egorsmkv/qt-multithreading|C++|
 |Whois HTTP API|https://github.com/egorsmkv/http-whois|Ruby|
 |Imgur Uploader Bot for Telegram|https://github.com/egorsmkv/imgur-uploader-bot|Go|
-|Utility for search RSS feeds on https://feedly.com|https://github.com/egorsmkv/feedly_search|Go|
+|Utility for searching RSS feeds on https://feedly.com|https://github.com/egorsmkv/feedly_search|Go|
