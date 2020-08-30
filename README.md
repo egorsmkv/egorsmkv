@@ -11,3 +11,4 @@
 |A demonstration on how to create own OTP authentication|https://github.com/egorsmkv/otp-qr-demo|PHP|
 |Implementation of multithreading in Qt|https://github.com/egorsmkv/qt-multithreading|C++|
 |Whois HTTP API|https://github.com/egorsmkv/http-whois|Ruby|
+|Imgur Uploader Bot for Telegram|https://github.com/egorsmkv/imgur-uploader-bot|Go|
