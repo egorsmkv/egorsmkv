@@ -14,5 +14,6 @@
 |Whois HTTP API|https://github.com/egorsmkv/http-whois|Ruby|
 |Imgur Uploader Bot for Telegram|https://github.com/egorsmkv/imgur-uploader-bot|Go|
 |Utility for searching RSS feeds on https://feedly.com|https://github.com/egorsmkv/feedly_search|Go|
+|An example of Go's Concurrency with a Limit|https://github.com/egorsmkv/go-concurrency-with-limit|Go|
 |Short URLs Service based on Alpas|https://github.com/egorsmkv/short-urls-service|Kotlin|
 |AdminLTE2-All-in-One|https://github.com/egorsmkv/AdminLTE2-All-in-One|-|
