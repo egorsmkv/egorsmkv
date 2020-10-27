@@ -6,6 +6,7 @@
 |API service based on Laravel|https://github.com/egorsmkv/laravel-api-example|PHP|
 |OpenAPI 3 Generator|https://github.com/egorsmkv/openapi3-generator|Python|
 |A generation server for preview images|https://github.com/egorsmkv/share-image-server|Go|
+|Classes of Telephony for the Python's diagrams package|https://github.com/egorsmkv/diagrams-telephony|Python|
 |A Python client for the Kuna API v3|https://github.com/egorsmkv/kuna-api-v3-client|Python|
 |Django integration with Webpack Encore|https://github.com/egorsmkv/django-encore|Python|
 |Record WAV files using your microphone with Python|https://github.com/egorsmkv/microphone-recorder|Python|
