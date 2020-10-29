@@ -20,3 +20,4 @@
 |An example of Go's Concurrency with a Limit|https://github.com/egorsmkv/go-concurrency-with-limit|Go|
 |Short URLs Service based on Alpas|https://github.com/egorsmkv/short-urls-service|Kotlin|
 |AdminLTE2-All-in-One|https://github.com/egorsmkv/AdminLTE2-All-in-One|-|
+|PrivatBank Money Sender|https://github.com/egorsmkv/privatbank-send-money|Ruby|
