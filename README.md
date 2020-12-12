@@ -2,6 +2,7 @@
 
 | Name | URL | Language |
 |-|-|-|
+|Oberon CGI|https://github.com/egorsmkv/oberon-cgi|Oberon|
 |API for libpostal|https://github.com/egorsmkv/api-libpostal|C|
 |API service based on Laravel|https://github.com/egorsmkv/laravel-api-example|PHP|
 |OpenAPI 3 Generator|https://github.com/egorsmkv/openapi3-generator|Python|
