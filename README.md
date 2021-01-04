@@ -22,3 +22,4 @@
 |Short URLs Service based on Alpas|https://github.com/egorsmkv/short-urls-service|Kotlin|
 |AdminLTE2-All-in-One|https://github.com/egorsmkv/AdminLTE2-All-in-One|-|
 |PrivatBank Money Sender|https://github.com/egorsmkv/privatbank-send-money|Ruby|
+|Speech-to-Text for the Ukrainian language based on Silero|https://github.com/egorsmkv/ua-silero-demo|Python|
