@@ -23,3 +23,4 @@
 |AdminLTE2-All-in-One|https://github.com/egorsmkv/AdminLTE2-All-in-One|-|
 |PrivatBank Money Sender|https://github.com/egorsmkv/privatbank-send-money|Ruby|
 |Speech-to-Text for the Ukrainian language based on Silero|https://github.com/egorsmkv/ua-silero-demo|Python|
+|Speech-to-Text for the Ukrainian language based on Wav2Vec2|https://github.com/egorsmkv/wav2vec2-uk-demo|Python|
