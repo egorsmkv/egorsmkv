@@ -24,3 +24,4 @@
 |PrivatBank Money Sender|https://github.com/egorsmkv/privatbank-send-money|Ruby|
 |Speech-to-Text for the Ukrainian language based on Silero|https://github.com/egorsmkv/ua-silero-demo|Python|
 |Speech-to-Text for the Ukrainian language based on Wav2Vec2|https://github.com/egorsmkv/wav2vec2-uk-demo|Python|
+|An ONNX model for speech recognition of the Ukrainian language|https://github.com/egorsmkv/ukrainian-onnx-model|Python|
