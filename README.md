@@ -26,3 +26,4 @@
 |Speech-to-Text for the Ukrainian language based on Wav2Vec2|https://github.com/egorsmkv/wav2vec2-uk-demo|Python|
 |An ONNX model for speech recognition of the Ukrainian language|https://github.com/egorsmkv/ukrainian-onnx-model|Python|
 |An accentor for the Ukrainian language|https://github.com/egorsmkv/ukrainian-accentor|Python|
+|ASR Corpus by Microphone|https://github.com/egorsmkv/asr-corpus-by-microphone|Python|
