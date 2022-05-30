@@ -27,3 +27,4 @@
 |An ONNX model for speech recognition of the Ukrainian language|https://github.com/egorsmkv/ukrainian-onnx-model|Python|
 |An accentor for the Ukrainian language|https://github.com/egorsmkv/ukrainian-accentor|Python|
 |ASR Corpus by Microphone|https://github.com/egorsmkv/asr-corpus-by-microphone|Python|
+|This function gives you the ability to send email messages via any STMP server using own predefined HTML/TXT templates.|https://github.com/egorsmkv/do-functions-php-send-email|PHP|
