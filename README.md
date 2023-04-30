@@ -31,3 +31,4 @@
 |A small script to test wav2vec2 models using a microphone|https://github.com/egorsmkv/test-wav2vec2-by-microphone|Python|
 |RADTTS + iSTFTNet vocoder|https://github.com/egorsmkv/radtts-istftnet|Python|
 |RADTTS + HiFiGAN vocoder|https://github.com/egorsmkv/radtts-hifigan|Python|
+|RADTTS + WaveODE vocoder|https://github.com/egorsmkv/radtts-waveode|Python|
