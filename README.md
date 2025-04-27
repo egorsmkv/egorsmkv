@@ -19,6 +19,7 @@
 |-|-|-|
 |Function to send emails|https://github.com/egorsmkv/do-functions-php-send-email|PHP|
 |Function to send notifications|https://github.com/egorsmkv/do-functions-php-notifier|PHP|
+|Function to send notifications about Sentry captures|https://github.com/egorsmkv/do-functions-php-sentry|PHP|
 
 ##### AI Models
 
