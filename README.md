@@ -17,7 +17,7 @@
 
 | Name | URL | Language |
 |-|-|-|
-|Function to send emails via any STMP server|https://github.com/egorsmkv/do-functions-php-send-email|PHP|
+|Function to send emails|https://github.com/egorsmkv/do-functions-php-send-email|PHP|
 |Function to send notifications|https://github.com/egorsmkv/do-functions-php-notifier|PHP|
 
 ##### AI Models
