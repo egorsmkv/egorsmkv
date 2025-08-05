@@ -35,6 +35,14 @@
 |Speech-to-Text for the Ukrainian language based on Silero|https://github.com/egorsmkv/ua-silero-demo|Python|
 |Speech-to-Text for the Ukrainian language based on Wav2Vec2|https://github.com/egorsmkv/wav2vec2-uk-demo|Python|
 
+##### Rust CLI
+
+| Name | URL | Language |
+|-|-|-|
+|Convert audio files to DuckDB or Parquet|https://github.com/RustedBytes/audios-to-dataset|Rust|
+|Extract audios from Parquet or Arrow files|https://github.com/RustedBytes/extract-audio|Rust|
+|Invoke different LLMs|https://github.com/RustedBytes/invoke-llm|Rust|
+
 ##### Tools
 
 | Name | URL | Language |
