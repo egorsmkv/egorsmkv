@@ -25,6 +25,8 @@
 
 | Name | URL | Language |
 |-|-|-|
+|Kulyk EN-UK|https://huggingface.co/Yehor/kulyk-en-uk|Python|
+|Kulyk UK-EN|https://huggingface.co/Yehor/kulyk-uk-en|Python|
 |RADTTS + iSTFTNet vocoder|https://github.com/egorsmkv/radtts-istftnet|Python|
 |RADTTS + HiFiGAN vocoder|https://github.com/egorsmkv/radtts-hifigan|Python|
 |RADTTS + WaveODE vocoder|https://github.com/egorsmkv/radtts-waveode|Python|
